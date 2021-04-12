@@ -1,0 +1,27 @@
+header{
+	display: flex;
+	border-width: 1px 0;
+	border-style: solid;
+	justify-content: center;
+	align-items: center;
+	border-color: #DDD;
+	background-color: white;
+	text-align: center;
+	padding: 0;
+}
+
+.box{
+  flex-grow: 1;
+}
+.container-1 #search{
+	background-color: #EEE;
+}
+.logo{
+	flex-grow: 1;
+}
+.menu{
+	flex-grow: 1;
+}
+.menu i{
+	margin: 5px;
+}
